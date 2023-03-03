@@ -4,10 +4,10 @@
     "url": "https://www.progettodighe.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.progettodighe.it.ico",
     "slug": "progettodighe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2132,
@@ -16,6 +16,7 @@
     "timeMonth": 2070,
     "timeYear": 2132,
     "dailyMinutesDown": {
+      "2023-03-03": 2,
       "2023-01-25": 31,
       "2023-01-10": 27
     }
@@ -25,10 +26,10 @@
     "url": "https://blog.progettodighe.it",
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1015,
@@ -37,6 +38,7 @@
     "timeMonth": 939,
     "timeYear": 1015,
     "dailyMinutesDown": {
+      "2023-03-03": 1,
       "2023-01-25": 31,
       "2023-01-10": 27
     }
@@ -46,10 +48,10 @@
     "url": "https://umami.progettodighe.it",
     "icon": "https://icons.duckduckgo.com/ip3/umami.progettodighe.it.ico",
     "slug": "umami-progettodighe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 859,
@@ -58,6 +60,7 @@
     "timeMonth": 794,
     "timeYear": 859,
     "dailyMinutesDown": {
+      "2023-03-03": 1,
       "2023-01-25": 17,
       "2023-01-10": 26
     }
@@ -68,18 +71,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "down",
-    "uptime": "2.08%",
+    "uptime": "2.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "2.08%",
+    "uptimeYear": "2.07%",
     "time": 823,
     "timeDay": 386,
     "timeWeek": 642,
     "timeMonth": 906,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2023-03-03": 206,
+      "2023-03-03": 880,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
