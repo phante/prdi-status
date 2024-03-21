@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 2178,
-    "timeDay": 1895,
-    "timeWeek": 2024,
-    "timeMonth": 2136,
+    "time": 2182,
+    "timeDay": 2775,
+    "timeWeek": 2068,
+    "timeMonth": 2149,
     "timeYear": 2189,
     "dailyMinutesDown": {
       "2023-12-13": 23,
@@ -32,8 +32,7 @@
       "2023-07-07": 17,
       "2023-06-17": 104,
       "2023-04-21": 45,
-      "2023-03-23": 19,
-      "2023-03-22": 31
+      "2023-03-23": 19
     }
   },
   {
@@ -42,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "31.64%",
+    "uptime": "31.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "9.66%",
-    "time": 1008,
+    "uptimeYear": "9.39%",
+    "time": 1006,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 930,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2024-03-20": 68,
+      "2024-03-21": 70,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -385,8 +385,7 @@
       "2023-04-26": 1440,
       "2023-04-25": 882,
       "2023-04-21": 45,
-      "2023-03-23": 19,
-      "2023-03-22": 31
+      "2023-03-23": 19
     }
   },
   {
@@ -400,11 +399,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 770,
-    "timeDay": 451,
-    "timeWeek": 772,
-    "timeMonth": 682,
-    "timeYear": 735,
+    "time": 771,
+    "timeDay": 989,
+    "timeWeek": 857,
+    "timeMonth": 693,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2023-10-23": 29,
       "2023-09-11": 22,
@@ -418,8 +417,7 @@
       "2023-07-07": 16,
       "2023-06-17": 103,
       "2023-04-21": 44,
-      "2023-03-23": 18,
-      "2023-03-22": 30
+      "2023-03-23": 18
     }
   },
   {
@@ -428,16 +426,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "51.00%",
+    "uptime": "51.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.56%",
+    "uptimeYear": "66.84%",
     "time": 807,
-    "timeDay": 571,
-    "timeWeek": 756,
-    "timeMonth": 683,
-    "timeYear": 803,
+    "timeDay": 699,
+    "timeWeek": 735,
+    "timeMonth": 676,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-09-05": 1026,
       "2023-09-04": 1440,
@@ -559,8 +557,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   }
 ]
