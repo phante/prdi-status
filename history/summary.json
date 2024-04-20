@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.progettodighe.it.ico",
     "slug": "progettodighe",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2182,
-    "timeDay": 1856,
-    "timeWeek": 2104,
-    "timeMonth": 2312,
+    "time": 2184,
+    "timeDay": 2139,
+    "timeWeek": 2078,
+    "timeMonth": 2320,
     "timeYear": 2216,
     "dailyMinutesDown": {
       "2023-12-13": 23,
@@ -30,8 +30,7 @@
       "2023-07-14": 21,
       "2023-07-09": 19,
       "2023-07-07": 17,
-      "2023-06-17": 104,
-      "2023-04-21": 45
+      "2023-06-17": 104
     }
   },
   {
@@ -40,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "29.79%",
+    "uptime": "29.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.45%",
-    "time": 981,
+    "uptimeYear": "1.18%",
+    "time": 982,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 868,
+    "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-04-19": 71,
+      "2024-04-20": 71,
+      "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -411,8 +411,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 882,
-      "2023-04-21": 45
+      "2023-04-25": 882
     }
   },
   {
@@ -426,11 +425,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 758,
-    "timeDay": 470,
-    "timeWeek": 554,
-    "timeMonth": 614,
-    "timeYear": 713,
+    "time": 757,
+    "timeDay": 382,
+    "timeWeek": 515,
+    "timeMonth": 612,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2023-10-23": 29,
       "2023-09-11": 22,
@@ -442,8 +441,7 @@
       "2023-07-15": 29,
       "2023-07-09": 18,
       "2023-07-07": 16,
-      "2023-06-17": 103,
-      "2023-04-21": 44
+      "2023-06-17": 103
     }
   },
   {
@@ -452,16 +450,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "53.87%",
+    "uptime": "53.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.78%",
-    "time": 815,
-    "timeDay": 608,
-    "timeWeek": 1551,
-    "timeMonth": 950,
-    "timeYear": 818,
+    "uptimeYear": "75.06%",
+    "time": 817,
+    "timeDay": 1151,
+    "timeWeek": 885,
+    "timeMonth": 968,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2023-09-05": 1026,
       "2023-09-04": 1440,
@@ -553,8 +551,7 @@
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
-      "2023-04-22": 1440,
-      "2023-04-21": 1440
+      "2023-04-22": 1440
     }
   }
 ]
