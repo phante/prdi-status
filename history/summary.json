@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2186,
-    "timeDay": 1660,
-    "timeWeek": 2780,
-    "timeMonth": 2312,
-    "timeYear": 2221,
+    "time": 2187,
+    "timeDay": 2028,
+    "timeWeek": 2823,
+    "timeMonth": 2308,
+    "timeYear": 2222,
     "dailyMinutesDown": {
       "2023-12-13": 23,
       "2023-10-23": 29,
@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "28.35%",
+    "uptime": "28.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -50,7 +50,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-15": 75,
+      "2024-05-16": 75,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -413,8 +414,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -428,10 +428,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 751,
-    "timeDay": 506,
-    "timeWeek": 787,
-    "timeMonth": 682,
+    "time": 752,
+    "timeDay": 1049,
+    "timeWeek": 852,
+    "timeMonth": 703,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2023-10-23": 29,
@@ -453,16 +453,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "56.10%",
+    "uptime": "56.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.91%",
+    "uptimeYear": "82.18%",
     "time": 814,
-    "timeDay": 466,
-    "timeWeek": 733,
-    "timeMonth": 744,
-    "timeYear": 817,
+    "timeDay": 497,
+    "timeWeek": 695,
+    "timeMonth": 745,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2023-09-05": 1026,
       "2023-09-04": 1440,
@@ -528,8 +528,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   }
 ]
