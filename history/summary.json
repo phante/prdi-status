@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2185,
-    "timeDay": 1577,
-    "timeWeek": 2314,
-    "timeMonth": 2300,
-    "timeYear": 2221,
+    "time": 2184,
+    "timeDay": 1737,
+    "timeWeek": 2136,
+    "timeMonth": 2280,
+    "timeYear": 2222,
     "dailyMinutesDown": {
       "2023-12-13": 23,
       "2023-10-23": 29,
@@ -39,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "27.78%",
+    "uptime": "27.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 967,
+    "time": 969,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-26": 80,
+      "2024-05-27": 76,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -413,8 +414,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -429,10 +429,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 747,
-    "timeDay": 577,
-    "timeWeek": 553,
-    "timeMonth": 678,
-    "timeYear": 693,
+    "timeDay": 754,
+    "timeWeek": 569,
+    "timeMonth": 688,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2023-10-23": 29,
       "2023-09-11": 22,
@@ -453,16 +453,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "56.98%",
+    "uptime": "57.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.92%",
+    "uptimeYear": "85.19%",
     "time": 814,
-    "timeDay": 759,
-    "timeWeek": 845,
-    "timeMonth": 722,
-    "timeYear": 821,
+    "timeDay": 980,
+    "timeWeek": 806,
+    "timeMonth": 735,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2023-09-05": 1026,
       "2023-09-04": 1440,
@@ -517,8 +517,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   }
 ]
