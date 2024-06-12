@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2197,
-    "timeDay": 3297,
-    "timeWeek": 2447,
-    "timeMonth": 2322,
+    "time": 2199,
+    "timeDay": 2640,
+    "timeWeek": 2462,
+    "timeMonth": 2305,
     "timeYear": 2240,
     "dailyMinutesDown": {
       "2023-12-13": 23,
@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "26.99%",
+    "uptime": "26.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -50,7 +50,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 78,
+      "2024-06-12": 78,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -413,8 +414,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -428,11 +428,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 743,
-    "timeDay": 1191,
-    "timeWeek": 1009,
-    "timeMonth": 731,
-    "timeYear": 701,
+    "time": 742,
+    "timeDay": 622,
+    "timeWeek": 951,
+    "timeMonth": 718,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2023-10-23": 29,
       "2023-09-11": 22,
@@ -453,15 +453,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "58.19%",
+    "uptime": "58.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.30%",
-    "time": 817,
-    "timeDay": 1296,
-    "timeWeek": 936,
-    "timeMonth": 812,
+    "uptimeYear": "89.58%",
+    "time": 816,
+    "timeDay": 765,
+    "timeWeek": 847,
+    "timeMonth": 810,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2023-09-05": 1026,
@@ -501,8 +501,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   }
 ]
