@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2244,
-    "timeDay": 2392,
-    "timeWeek": 2093,
+    "time": 2242,
+    "timeDay": 1155,
+    "timeWeek": 1987,
     "timeMonth": 2194,
-    "timeYear": 2293,
+    "timeYear": 2290,
     "dailyMinutesDown": {
       "2023-12-13": 23,
       "2023-10-23": 29,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "23.54%",
+    "uptime": "23.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 798,
+    "time": 787,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-02": 94,
+      "2024-09-03": 85,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -402,8 +403,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -418,8 +418,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 716,
-    "timeDay": 1050,
-    "timeWeek": 659,
+    "timeDay": 525,
+    "timeWeek": 620,
     "timeMonth": 790,
     "timeYear": 718,
     "dailyMinutesDown": {
@@ -433,19 +433,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "63.55%",
+    "uptime": "63.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.27%",
     "time": 815,
-    "timeDay": 881,
-    "timeWeek": 784,
-    "timeMonth": 780,
+    "timeDay": 611,
+    "timeWeek": 738,
+    "timeMonth": 776,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-09-05": 1026,
-      "2023-09-04": 1440
+      "2023-09-05": 1026
     }
   }
 ]
