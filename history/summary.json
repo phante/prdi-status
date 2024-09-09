@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2243,
-    "timeDay": 1519,
-    "timeWeek": 2651,
-    "timeMonth": 2359,
-    "timeYear": 2305,
+    "time": 2244,
+    "timeDay": 2829,
+    "timeWeek": 2714,
+    "timeMonth": 2400,
+    "timeYear": 2308,
     "dailyMinutesDown": {
       "2023-12-13": 23,
       "2023-10-23": 29,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "23.32%",
+    "uptime": "23.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 99,
+      "2024-09-09": 96,
+      "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -402,8 +403,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   },
   {
@@ -417,11 +417,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 715,
-    "timeDay": 412,
-    "timeWeek": 661,
-    "timeMonth": 748,
-    "timeYear": 714,
+    "time": 714,
+    "timeDay": 713,
+    "timeWeek": 613,
+    "timeMonth": 742,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2023-10-23": 29,
       "2023-09-11": 22
@@ -433,16 +433,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "63.88%",
+    "uptime": "63.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 754,
-    "timeWeek": 1322,
-    "timeMonth": 911,
-    "timeYear": 851,
+    "time": 825,
+    "timeDay": 1254,
+    "timeWeek": 1375,
+    "timeMonth": 917,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   }
 ]
