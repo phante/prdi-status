@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2244,
-    "timeDay": 2829,
-    "timeWeek": 2714,
-    "timeMonth": 2400,
-    "timeYear": 2308,
+    "time": 2242,
+    "timeDay": 1603,
+    "timeWeek": 2778,
+    "timeMonth": 2332,
+    "timeYear": 2307,
     "dailyMinutesDown": {
       "2023-12-13": 23,
       "2023-10-23": 29,
-      "2023-09-15": 21,
-      "2023-09-11": 23
+      "2023-09-15": 21
     }
   },
   {
@@ -28,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "23.29%",
+    "uptime": "23.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 96,
+      "2024-09-10": 94,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -402,8 +402,7 @@
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   },
   {
@@ -418,13 +417,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 714,
-    "timeDay": 713,
-    "timeWeek": 613,
-    "timeMonth": 742,
-    "timeYear": 715,
+    "timeDay": 495,
+    "timeWeek": 609,
+    "timeMonth": 723,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-10-23": 29,
-      "2023-09-11": 22
+      "2023-10-23": 29
     }
   },
   {
@@ -433,16 +431,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "63.94%",
+    "uptime": "63.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 1254,
-    "timeWeek": 1375,
-    "timeMonth": 917,
-    "timeYear": 852,
+    "timeDay": 904,
+    "timeWeek": 1417,
+    "timeMonth": 918,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   }
 ]
