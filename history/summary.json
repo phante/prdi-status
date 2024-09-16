@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2243,
-    "timeDay": 1854,
-    "timeWeek": 1991,
-    "timeMonth": 2246,
-    "timeYear": 2296,
+    "timeDay": 2060,
+    "timeWeek": 1881,
+    "timeMonth": 2253,
+    "timeYear": 2299,
     "dailyMinutesDown": {
       "2023-12-13": 23,
       "2023-10-23": 29
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.progettodighe.it.ico",
     "slug": "blog-progettodighe",
     "status": "down",
-    "uptime": "23.08%",
+    "uptime": "23.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 103,
+      "2024-09-16": 100,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -400,8 +401,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   },
   {
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 714,
-    "timeDay": 635,
-    "timeWeek": 655,
-    "timeMonth": 713,
-    "timeYear": 709,
+    "timeDay": 411,
+    "timeWeek": 612,
+    "timeMonth": 699,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2023-10-23": 29
     }
@@ -430,16 +430,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "64.26%",
+    "uptime": "64.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 823,
-    "timeWeek": 833,
-    "timeMonth": 902,
-    "timeYear": 853,
+    "time": 828,
+    "timeDay": 1394,
+    "timeWeek": 853,
+    "timeMonth": 921,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   }
 ]
