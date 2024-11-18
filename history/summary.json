@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2234,
-    "timeDay": 2049,
-    "timeWeek": 2139,
-    "timeMonth": 2063,
-    "timeYear": 2209,
+    "time": 2233,
+    "timeDay": 1848,
+    "timeWeek": 2096,
+    "timeMonth": 2061,
+    "timeYear": 2204,
     "dailyMinutesDown": {
       "2023-12-13": 23
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
-    "timeDay": 885,
-    "timeWeek": 853,
-    "timeMonth": 849,
-    "timeYear": 721,
+    "timeDay": 817,
+    "timeWeek": 844,
+    "timeMonth": 848,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2024-10-13": 21
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "67.37%",
+    "uptime": "67.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 855,
-    "timeWeek": 811,
-    "timeMonth": 896,
-    "timeYear": 851,
+    "timeDay": 833,
+    "timeWeek": 783,
+    "timeMonth": 893,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   }
 ]
