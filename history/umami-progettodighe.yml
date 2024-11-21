@@ -1,7 +1,7 @@
 url: https://umami.progettodighe.it
-status: up
-code: 200
-responseTime: 528
-lastUpdated: 2024-11-20T23:12:48.176Z
+status: down
+code: 502
+responseTime: 1164
+lastUpdated: 2024-11-21T15:45:19.223Z
 startTime: 2022-11-23T15:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
