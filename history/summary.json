@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2220,
-    "timeDay": 1966,
-    "timeWeek": 1617,
-    "timeMonth": 1843,
+    "time": 2218,
+    "timeDay": 1241,
+    "timeWeek": 1547,
+    "timeMonth": 1820,
     "timeYear": 2173,
-    "dailyMinutesDown": {
-      "2023-12-13": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "umami.progettodighe",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 725,
-    "timeDay": 971,
-    "timeWeek": 771,
+    "time": 726,
+    "timeDay": 805,
+    "timeWeek": 795,
     "timeMonth": 793,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2024-11-21": 80,
       "2024-10-13": 21
@@ -46,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "68.42%",
+    "uptime": "68.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 818,
-    "timeWeek": 651,
-    "timeMonth": 813,
+    "time": 841,
+    "timeDay": 537,
+    "timeWeek": 617,
+    "timeMonth": 802,
     "timeYear": 839,
     "dailyMinutesDown": {}
   }
