@@ -4,19 +4,19 @@
     "url": "https://www.progettodighe.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.progettodighe.it.ico",
     "slug": "progettodighe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2179,
-    "timeDay": 4423,
-    "timeWeek": 2889,
-    "timeMonth": 2447,
-    "timeYear": 2142,
+    "time": 2176,
+    "timeDay": 3154,
+    "timeWeek": 2764,
+    "timeMonth": 2429,
+    "timeYear": 2141,
     "dailyMinutesDown": {
-      "2025-08-18": 0
+      "2025-08-18": 10
     }
   },
   {
