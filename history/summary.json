@@ -4,9 +4,9 @@
     "url": "https://www.progettodighe.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.progettodighe.it.ico",
     "slug": "progettodighe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2889,
     "timeMonth": 2447,
     "timeYear": 2142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-18": 0
+    }
   },
   {
     "name": "umami.progettodighe",
@@ -45,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vajont.eu.ico",
     "slug": "vajont-eu",
     "status": "up",
-    "uptime": "76.33%",
+    "uptime": "76.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
