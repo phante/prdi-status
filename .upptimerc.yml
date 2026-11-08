@@ -7,6 +7,8 @@ sites:
     url: https://www.progettodighe.it
   - name: vajont.eu
     url: https://vajont.eu
+  - name: bot social
+    url: https://bot.prdi.it/salute
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
